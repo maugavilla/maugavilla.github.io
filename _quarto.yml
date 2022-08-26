@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  
-  navbar:
-  title: "MGV site"
-    left:
+  title: "MGV"
+navbar:
+  left:
       - href: README.md
         text: Home
+      - about.md
 
 format:
   html:

@@ -2,9 +2,8 @@ project:
   type: website
 
 website:
-  title: "mysite"
+  title: "MGV site"
   navbar:
-    background: primary
     left:
       - href: README.md
         text: Home

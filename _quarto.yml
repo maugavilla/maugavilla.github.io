@@ -1,15 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "MGV"
   navbar:
     background: primary
     left:
-      - href: README.md
+      - href: index.qmd
         text: Home
-      - href: _site/about.html
-        text: About
+      - about.qmd
 
 format:
   html:

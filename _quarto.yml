@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  title: "mysite"
+  title: "MGV"
   navbar:
     background: primary
     left:
       - href: README.md
         text: Home
-      - href: about.md
+      - href: _site/about.html
         text: About
 
 format:

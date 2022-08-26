@@ -1,16 +1,14 @@
-url: https://maugavilla.github.io/
+project:
+  type: website
 
-destination: "."
-    
-news:
-  one_page: false
-
-navbar:
-  title: "MGV"
-  left:
-      - href: README.html
+website:
+  title: "mysite"
+  navbar:
+    background: primary
+    left:
+      - href: README.md
         text: Home
-      - about.html
+      - about.md
 
 format:
   html:

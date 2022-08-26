@@ -1,5 +1,6 @@
 ---
 title: "Mauricio Garnier-Villarreal, PhD"
+format: gfm
 ---
 
 

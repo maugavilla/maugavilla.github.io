@@ -6,9 +6,8 @@ website:
   navbar:
     background: primary
     left:
-      - href: README.qmd
+      - href: README.md
         text: Home
-      - about.qmd
 
 format:
   html:

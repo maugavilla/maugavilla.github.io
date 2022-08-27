@@ -10,7 +10,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+    right:
+      - icon: twitter
+        href: 'https://twitter.com/MauricioGarnier?t=QZJZPcnkxxk3GEXTzYROXA&s=09'
+        
 format:
   html:
     theme: cosmo

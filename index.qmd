@@ -2,23 +2,17 @@
 title: "Mauricio Garnier-Villarreal, PhD"
 ---
 
-## Quarto
+::: {.column-margin}
+![](_AGU8154.jpg)
+[VU](https://research.vu.nl/en/persons/mauricio-garnier-villarreal)
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+[OSF](https://osf.io/ka5z6/)
 
-## Running Code
+[ORCID](https://orcid.org/0000-0002-2951-6647)
+:::
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
-```{r}
-1 + 1
-```
 
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+::: {.column-page-left}
+And here I write something about me
+:::

@@ -3,7 +3,7 @@ title: "Mauricio Garnier-Villarreal, PhD"
 ---
 
 ::: {.column-margin}
-![](_AGU8154.jpg)
+![](AGU8154.jpg)
 [VU](https://research.vu.nl/en/persons/mauricio-garnier-villarreal)
 
 [OSF](https://osf.io/ka5z6/)

@@ -16,3 +16,5 @@ title: "Mauricio Garnier-Villarreal, PhD"
 ::: {.column-page-left}
 And here I write something about me
 :::
+
+

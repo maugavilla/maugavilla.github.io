@@ -10,6 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - CV.qmd
     right:
       - icon: twitter
         href: 'https://twitter.com/MauricioGarnier?t=QZJZPcnkxxk3GEXTzYROXA&s=09'

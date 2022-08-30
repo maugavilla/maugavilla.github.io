@@ -12,9 +12,9 @@ title: "Mauricio Garnier-Villarreal, PhD"
 :::
 
 
+# About me
 
-::: {.column-page-left}
 And here I write something about me
-:::
+
 
 

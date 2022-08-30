@@ -1,0 +1,22 @@
+---
+title: "Open Source"
+---
+
+
+# Tutorials
+
+
+# R 
+
+Within *R* I collaborate with developers in several packages, as well as participating in their respective online forums
+
+* [lavaan](https://www.lavaan.ugent.be/): 
+* [blavaan](http://ecmerkle.github.io/blavaan/): 
+* [semTools](https://github.com/simsem/semTools/wiki):
+* [tidySEM](https://cjvanlissa.github.io/tidySEM/):
+
+# Stan
+
+Among the variety of general Bayesian software, I mostly work with [Stan](https://mc-stan.org/), to develop and test models such as SEM, IRT, and LCA. As well as being an active member in their [open forum](https://discourse.mc-stan.org/). 
+
+

@@ -4,5 +4,23 @@ title: "Research"
 
 # Research Philosophy
 
+I see research as the overall process to test ideas, find their strengths and weaknesses. Engaging in interesting discussions to find the *best* solutions, if it means I was wrong. Through this process we should learn from each other expertise, as nobody can be an expert in all areas. 
+
+Research should be collaborative and open in nature. By working other people we can get the most of each other. This is a way that I have seen my research to have the most impact, by collaborating with applied researchers I can contribute as the analysis expert and improve the quality and impact of research in areas like sociology, special education, nursing, and psychology. And through open science, we make our research available for scrutiny, replication, and accessible.
+
+My open science work is shown by my contributions in  **R**, and sharing materials on github and OSF. 
+
+
 # Research Program
+
+My research interests have led my career into two symbiotic paths. First into the area of development and testing of data analysis techniques, working to develop current best practices and recommendations in modern data analysis techniques. Based on the current state of the art, I work on areas that present opportunities for improved guidelines and developments for applied research. This leads into the second path, statistical collaboration for applied research, where I seek to work with my colleagues to answer relevant research questions in social science, applying the most innovative data analysis techniques, as well as identify possible areas that required more precise methodological recommendations. 
+
+## Latent Variable Models
+
+## Bayesian inference
+
+## Inequality
+
+## Collaborations
+
 

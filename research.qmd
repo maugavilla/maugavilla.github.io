@@ -17,10 +17,27 @@ My research interests have led my career into two symbiotic paths. First into th
 
 ## Latent Variable Models
 
+The focus of my methodological research has been on the development and tests of latent variable models (LVM); such as Structural Equation Models (SEM), Item Response Theory (IRT) and Mixture Models. I find these models appealing, as we can approximate hard to measure constructs, and correct for measurement error (at least some of it).
+
 ## Bayesian inference
+
+As many people, I really dislike the null hypothesis, which does not make sense in most cases. So, Bayesian inference is particularly interesting, as it does not require a null hypothesis, and the ability to include information from previous research. 
+
+As this is a general inference framework, I applied it and extend it from regression to LVM. 
+
+Frequentist LVM have have decades of development, but for their Bayesian counterparts we have had less time and less user friendly software. For these reasons, part of my work is on testing Bayesian LVM common practices, and make best practice recommendations for applied researchers. And collaborate in the development of user friendly open source software.   
+
 
 ## Inequality
 
+I have particular interest in how these methods can be applied to the study of inequality, with particular interest in intersectionality theory. There are several methodological issues to solve for their proper evaluation, such small sample size per group group, data accessibility, and their interpretation. 
+
+As part of the Social Inequality in the Life Course (SILC) research group at the VU, I work in a variety of research projects to evaluate social inequalities and their impact. 
+
+
 ## Collaborations
+
+A big part of my work has been to collaborate with applied researchers, gaining from each others expertise and improving the overall quality of research. Has collaborated in areas like aging, special education, psychology, physical therapy, nursing, midwifery, and sociology. 
+
 
 

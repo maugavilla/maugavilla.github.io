@@ -3,9 +3,6 @@ title: "Open Source"
 ---
 
 
-# Tutorials
-
-
 # R 
 
 Within *R* I collaborate with developers in several packages, as well as participating in their respective online forums

@@ -11,9 +11,9 @@ website:
         text: Home
       - research.qmd
       - open_source.qmd
+      - tutorials.qmd
       - publications.qmd
       - CV.qmd
-      - contact.qmd
     right:
       - icon: twitter
         href: 'https://twitter.com/MauricioGarnier?t=QZJZPcnkxxk3GEXTzYROXA&s=09'

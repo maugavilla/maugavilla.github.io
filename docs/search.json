@@ -39,7 +39,7 @@
     "href": "open_source.html",
     "title": "Open Source",
     "section": "",
-    "text": "R\nWithin R I collaborate with developers in several packages, as well as participating in their respective online forums\n\nlavaan:\nblavaan:\nsemTools:\ntidySEM:\n\n\n\nStan\nAmong the variety of general Bayesian software, I mostly work with Stan, to develop and test models such as SEM, IRT, and LCA. As well as being an active member in their open forum."
+    "text": "Stan\nAmong the variety of general Bayesian software, I mostly work with Stan, to develop and test models such as SEM, IRT, and LCA. As well as being an active member in their open forum."
   },
   {
     "objectID": "research.html",

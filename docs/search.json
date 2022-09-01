@@ -88,6 +88,20 @@
     "href": "tutorials.html",
     "title": "Teaching/Tutorials",
     "section": "",
-    "text": "Courses\nOutside of my university teaching, I teach yearly Bayesian regression and Bayesian SEM 5 or 3 day courses as part of the Stats Camp.\n\n\nOnline tutorials/materials"
+    "text": "Presentations (such as conferences and invited talks) are available at my Presentation OSF site"
+  },
+  {
+    "objectID": "tutorials.html#courses",
+    "href": "tutorials.html#courses",
+    "title": "Teaching/Tutorials",
+    "section": "Courses",
+    "text": "Courses\nOutside of my university teaching, I teach Bayesian regression and Bayesian SEM 5 or 3 day courses as part of the Stats Camp."
+  },
+  {
+    "objectID": "tutorials.html#online-tutorialsmaterials",
+    "href": "tutorials.html#online-tutorialsmaterials",
+    "title": "Teaching/Tutorials",
+    "section": "Online tutorials/materials",
+    "text": "Online tutorials/materials"
   }
 ]

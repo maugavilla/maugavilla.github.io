@@ -2,12 +2,13 @@
 title: "Teaching/Tutorials"
 ---
 
-# Presentations
+## Presentations
 
 Presentations (such as conferences and invited talks) are available at my [Presentation OSF site](https://osf.io/2vw58/)
 
-# Courses
+## Courses
 
 Outside of my university teaching, I teach yearly Bayesian regression and Bayesian SEM 5 or 3 day courses as part of the [Stats Camp](https://www.statscamp.org/).
 
-# Online tutorials
+
+## Online tutorials/materials

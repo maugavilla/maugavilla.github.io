@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Mauricio Garnier-Villarreal, PhD",
     "section": "",
-    "text": "About me\nAnd here I write something about me"
+    "text": "About me\nResearcher from Costa Rica, working at the Sociology department from the Vrije Universiteit Amsterdam (VU). Overall my work is about development and test of data analysis methods, and their applications in a variety of applied fields.\nI am passionate about open source, and collaborative research."
   },
   {
     "objectID": "index.html#running-code",
@@ -53,28 +53,28 @@
     "href": "research.html#latent-variable-models",
     "title": "Research",
     "section": "Latent Variable Models",
-    "text": "Latent Variable Models"
+    "text": "Latent Variable Models\nThe focus of my methodological research has been on the development and tests of latent variable models (LVM); such as Structural Equation Models (SEM), Item Response Theory (IRT) and Mixture Models. I find these models appealing, as we can approximate hard to measure constructs, and correct for measurement error (at least some of it)."
   },
   {
     "objectID": "research.html#bayesian-inference",
     "href": "research.html#bayesian-inference",
     "title": "Research",
     "section": "Bayesian inference",
-    "text": "Bayesian inference"
+    "text": "Bayesian inference\nAs many people, I really dislike the null hypothesis, which does not make sense in most cases. So, Bayesian inference is particularly interesting, as it does not require a null hypothesis, and the ability to include information from previous research.\nAs this is a general inference framework, I applied it and extend it from regression to LVM.\nFrequentist LVM have have decades of development, but for their Bayesian counterparts we have had less time and less user friendly software. For these reasons, part of my work is on testing Bayesian LVM common practices, and make best practice recommendations for applied researchers. And collaborate in the development of user friendly open source software."
   },
   {
     "objectID": "research.html#inequality",
     "href": "research.html#inequality",
     "title": "Research",
     "section": "Inequality",
-    "text": "Inequality"
+    "text": "Inequality\nI have particular interest in how these methods can be applied to the study of inequality, with particular interest in intersectionality theory. There are several methodological issues to solve for their proper evaluation, such small sample size per group group, data accessibility, and their interpretation.\nAs part of the Social Inequality in the Life Course (SILC) research group at the VU, I work in a variety of research projects to evaluate social inequalities and their impact."
   },
   {
     "objectID": "research.html#collaborations",
     "href": "research.html#collaborations",
     "title": "Research",
     "section": "Collaborations",
-    "text": "Collaborations"
+    "text": "Collaborations\nA big part of my work has been to collaborate with applied researchers, gaining from each others expertise and improving the overall quality of research. Has collaborated in areas like aging, special education, psychology, physical therapy, nursing, midwifery, and sociology."
   },
   {
     "objectID": "contact.html",
@@ -82,5 +82,12 @@
     "title": "Contact",
     "section": "",
     "text": "You can contact me at my University email (m.garniervillarreal@vu.nl)"
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Teaching/Tutorials",
+    "section": "",
+    "text": "Courses\nOutside of my university teaching, I teach yearly Bayesian regression and Bayesian SEM 5 or 3 day courses as part of the Stats Camp.\n\n\nOnline tutorials/materials"
   }
 ]

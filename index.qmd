@@ -2,6 +2,7 @@
 title: "Mauricio Garnier-Villarreal, PhD"
 ---
 
+
 ::: {.column-margin}
 ![](AGU8154.jpg)
 [VU](https://research.vu.nl/en/persons/mauricio-garnier-villarreal)
@@ -14,9 +15,12 @@ m.garniervillarreal@vu.nl
 :::
 
 
+
 # About me
 
-And here I write something about me
+Researcher from Costa Rica, working at the Sociology department from the Vrije Universiteit Amsterdam (VU). Overall my work is about development and test of data analysis methods, and their applications in a variety of applied fields. 
+
+I am passionate about open source, and collaborative research.
 
 
 

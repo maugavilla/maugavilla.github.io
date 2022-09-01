@@ -8,7 +8,7 @@ Presentations (such as conferences and invited talks) are available at my [Prese
 
 ## Courses
 
-Outside of my university teaching, I teach yearly Bayesian regression and Bayesian SEM 5 or 3 day courses as part of the [Stats Camp](https://www.statscamp.org/).
+Outside of my university teaching, I teach Bayesian regression and Bayesian SEM 5 or 3 day courses as part of the [Stats Camp](https://www.statscamp.org/).
 
 
 ## Online tutorials/materials

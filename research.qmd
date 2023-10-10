@@ -4,16 +4,15 @@ title: "Research"
 
 # Research Philosophy
 
-I see research as the overall process to test ideas, find their strengths and weaknesses. Engaging in interesting discussions to find the *best* solutions, if it means I was wrong. Through this process we should learn from each other expertise, as nobody can be an expert in all areas. 
+I see research as the overall process to test ideas, find their strengths and weaknesses. Engaging in interesting discussions to find the *best* solutions, if it means I was wrong. Through this process we should learn from each other expertise, as nobody can be an expert in all areas.
 
 Research should be collaborative and open in nature. By working other people we can get the most of each other. This is a way that I have seen my research to have the most impact, by collaborating with applied researchers I can contribute as the analysis expert and improve the quality and impact of research in areas like sociology, special education, nursing, and psychology. And through open science, we make our research available for scrutiny, replication, and accessible.
 
-My open science work is shown by my contributions in  **R**, and sharing materials on github and OSF. 
-
+My open science work is shown by my contributions in **R**, and sharing materials on github and OSF.
 
 # Research Program
 
-My research interests have led my career into two symbiotic paths. First into the area of development and testing of data analysis techniques, working to develop current best practices and recommendations in modern data analysis techniques. Based on the current state of the art, I work on areas that present opportunities for improved guidelines and developments for applied research. This leads into the second path, statistical collaboration for applied research, where I seek to work with my colleagues to answer relevant research questions in social science, applying the most innovative data analysis techniques, as well as identify possible areas that required more precise methodological recommendations. 
+My research interests have led my career into two symbiotic paths. First into the area of development and testing of data analysis techniques, working to develop current best practices and recommendations in modern data analysis techniques. Based on the current state of the art, I work on areas that present opportunities for improved guidelines and developments for applied research. This leads into the second path, statistical collaboration for applied research, where I seek to work with my colleagues to answer relevant research questions in social science, applying the most innovative data analysis techniques, as well as identify possible areas that required more precise methodological recommendations.
 
 ## Latent Variable Models
 
@@ -21,23 +20,18 @@ The focus of my methodological research has been on the development and tests of
 
 ## Bayesian inference
 
-As many people, I really dislike the null hypothesis, which does not make sense in most cases. So, Bayesian inference is particularly interesting, as it does not require a null hypothesis, and the ability to include information from previous research. 
+As many people, I really dislike the null hypothesis, which does not make sense in most cases. So, Bayesian inference is particularly interesting, as it does not require a null hypothesis, and the ability to include information from previous research.
 
-As this is a general inference framework, I applied it and extend it from regression to LVM. 
+As this is a general inference framework, I applied it and extend it from regression to LVM.
 
-Frequentist LVM have have decades of development, but for their Bayesian counterparts we have had less time and less user friendly software. For these reasons, part of my work is on testing Bayesian LVM common practices, and make best practice recommendations for applied researchers. And collaborate in the development of user friendly open source software.   
-
+Frequentist LVM have have decades of development, but for their Bayesian counterparts we have had less time and less user friendly software. For these reasons, part of my work is on testing Bayesian LVM common practices, and make best practice recommendations for applied researchers. And collaborate in the development of user friendly open source software.
 
 ## Inequality
 
-I have particular interest in how these methods can be applied to the study of inequality, with particular interest in intersectionality theory. There are several methodological issues to solve for their proper evaluation, such small sample size per group group, data accessibility, and their interpretation. 
+I have particular interest in how these methods can be applied to the study of inequality, with particular interest in intersectionality theory. There are several methodological issues to solve for their proper evaluation, such small sample size per group group, data accessibility, and their interpretation.
 
-As part of the Social Inequality in the Life Course (SILC) research group at the VU, I work in a variety of research projects to evaluate social inequalities and their impact. 
-
+As part of the Social Inequality in the Life Course (SILC) research group at the VU, I work in a variety of research projects to evaluate social inequalities and their impact.
 
 ## Collaborations
 
-A big part of my work has been to collaborate with applied researchers, gaining from each others expertise and improving the overall quality of research. Has collaborated in areas like aging, special education, psychology, physical therapy, nursing, midwifery, and sociology. 
-
-
-
+A big part of my work has been to collaborate with applied researchers, gaining from each others expertise and improving the overall quality of research. Has collaborated in areas like aging, special education, psychology, physical therapy, nursing, midwifery, and sociology.

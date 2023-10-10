@@ -39,7 +39,7 @@
     "href": "open_source.html",
     "title": "Open Source",
     "section": "",
-    "text": "Stan\nAmong the variety of general Bayesian software, I mostly work with Stan, to develop and test models such as SEM, IRT, and LCA. As well as being an active member in their open forum."
+    "text": "R\nWithin R I collaborate with developers in several packages, as well as participating in their respective online forums\n\nlavaan: is developed to provide useRs, researchers and teachers a free open-source, but commercial-quality package for latent variable modeling. You can use lavaan to estimate a large variety of multivariate statistical models, including path analysis, confirmatory factor analysis, structural equation modeling and growth curve models.\nblavaan: is a free, open source R package for Bayesian latent variable analysis. It relies on JAGS and Stan to estimate models via MCMC. Building on top of lavaan functionality for Bayesian models.\nsemTools: Provides tools for structural equation modeling, many of which extend the lavaan package\ntidySEM: provides a ‘tidy’ workflow for conducting, reporting, and plotting structural equation modeling analyses. It does not perform model estimation, but instead allows users to estimate models in a software-agnostic way, using either the free open source R packages lavaan or OpenMx, or the commercial closed-source program Mplus.\n\n\n\nStan\nAmong the variety of general Bayesian software, I mostly work with Stan, to develop and test models such as SEM, IRT, and LCA. As well as being an active member in their open forum."
   },
   {
     "objectID": "research.html",
@@ -103,5 +103,12 @@
     "title": "Teaching/Tutorials",
     "section": "Online tutorials/materials",
     "text": "Online tutorials/materials\n\nWell Hello Stats: in this site you can find a series of R tutorials. Covering from installation to a variety of of data analysis."
+  },
+  {
+    "objectID": "tutorials.html#presentations",
+    "href": "tutorials.html#presentations",
+    "title": "Teaching/Tutorials",
+    "section": "",
+    "text": "Presentations (such as conferences and invited talks) are available at my Presentation OSF site"
   }
 ]

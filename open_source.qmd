@@ -10,6 +10,7 @@ Within *R* I collaborate with developers in several packages, as well as partici
 -   [blavaan](http://ecmerkle.github.io/blavaan/): is a free, open source R package for Bayesian latent variable analysis. It relies on JAGS and Stan to estimate models via MCMC. Building on top of *lavaan* functionality for Bayesian models.
 -   [semTools](https://github.com/simsem/semTools/wiki): Provides tools for structural equation modeling, many of which extend the *lavaan* package
 -   [tidySEM](https://cjvanlissa.github.io/tidySEM/): provides a 'tidy' workflow for conducting, reporting, and plotting structural equation modeling analyses. It does not perform model estimation, but instead allows users to estimate models in a software-agnostic way, using either the free open source R packages *lavaan* or *OpenMx*, or the commercial closed-source program *Mplus*.
+-  [nonnest2](https://cran.r-project.org/web/packages/nonnest2/index.html): Testing non-nested models via theory supplied by Vuong (1989). Includes tests of model distinguishability and of model fit that can be applied to both nested and non-nested models. Also includes functionality to obtain confidence intervals associated with AIC and BIC. 
 
 # Stan
 

@@ -18,9 +18,9 @@ m.garniervillarreal@vu.nl
 
 # About me
 
-I am a researcher from Costa Rica, working at the Sociology department from the Vrije Universiteit Amsterdam (VU). Overall my work is about development and test of data analysis methods, and their applications in a variety of applied fields. 
+I am a researcher from Costa Rica, working at the Sociology department from the Vrije Universiteit Amsterdam (VU). Overall my work is about development, test of data analysis methods, and their applications in a variety of applied fields. 
 
-I am passionate about open-source science and software, and collaborative research.
+I am passionate about open-source science/software, and collaborative research.
 
 
 

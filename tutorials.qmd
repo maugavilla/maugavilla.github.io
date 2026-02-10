@@ -8,8 +8,8 @@ Presentations (such as conferences and invited talks) are available at my [Prese
 
 ## Courses
 
-Outside of my university teaching, I teach Bayesian regression and Bayesian SEM courses as part of the [Stats Camp](https://www.statscamp.org/).
+Outside of my university teaching, I have taught Bayesian regression and Bayesian SEM courses as part of the [Stats Camp](https://www.statscamp.org/).
 
 ## Online tutorials/materials
 
-[Well Hello Stats](https://github.com/maugavilla/well_hello_stats): in this site you can find a series of **R** tutorials. Covering from installation to a variety of of data analysis.
+[Well Hello Stats](https://github.com/maugavilla/well_hello_stats): in this site you can find a series of **R** tutorials. Covering from installation to a variety of data analysis.

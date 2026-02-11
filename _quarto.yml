@@ -14,9 +14,6 @@ website:
       - tutorials.qmd
       - publications.qmd
       - CV.qmd
-    right:
-      - icon: twitter
-        href: 'https://twitter.com/MauricioGarnier?t=QZJZPcnkxxk3GEXTzYROXA&s=09'
         
 format:
   html:
